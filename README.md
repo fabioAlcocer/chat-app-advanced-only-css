@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Demo]()
+- Solution URL: [Solution](https://github.com/fabioAlcocer/chat-app-advanced-only-css/)
+- Live Site URL: [Live Demo](https://chat-app-advanced-css.netlify.app/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [fabioAlcocerr](https://github.com/fabioAlcocer)
+- GitHub - [fabioAlcocer](https://github.com/fabioAlcocer)
 - Twitter - [@AlcocerSejas](https://twitter.com/AlcocerSejas)
